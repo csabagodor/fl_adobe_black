@@ -1,0 +1,3 @@
+To set the grid color for the piano roll and the play list
+left click on the reg files and chouse merge this is not a permanent change
+and can be undone anytime my setting your own color again for these in fl studio.

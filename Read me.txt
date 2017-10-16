@@ -1,0 +1,65 @@
+Fl studio 12.5.1.5 x64  Adobe Black Skin up-date 3.14/10/17
+
+Make sure to copy all the files into the right folders keeping a back-up of any files you replace.
+
+
+Chouse any one of the FLEngine_x64.dll and copy it into,
+
+Image-Line\FL Studio 12
+
+
+
+PluginManager.exe
+
+Image-Line\FL Studio 12\System\Tools\Plugin Manager
+
+
+
+Effects <<>> Don't get these mixed up.
+
+Fruity Wrapper & Patcher
+
+Image-Line\FL Studio 12\Plugins\Fruity\Effects
+
+
+
+Generators <<>> Don't get these mixed up.
+
+Fruity Wrapper & Patcher
+
+Image-Line\FL Studio 12\Plugins\Fruity\Generators
+
+
+
+
+Copy the Adobe Black Template folder into your Fl Studio Templates folder found here
+
+Image-Line\FL Studio 12\Data\Projects\Templates\
+
+
+When you start fl studio go to file top left tab
+New from Template and chouse the Adobe Black Template that you just added.
+This will set the mixer and playlist colors the same as the png.
+You can also make and change any templates to fit you needs
+have a look on you-tube for more info about this.
+
+
+
+Fixes and changes made in the update from the v12.5.59 Adobe Black.
+
+Ghost notes fixed as they could not be seen lol, 
+Blocks light now comes on the black steps when white steps are added.
+Patcher added dark backround and updated to latest version.
+Changed the vol line to green to match the green light on the mixer noobs when one or all are selected.
+changed the online box to match the tool-bar as well as the play stop tabs.
+updated Fruity Wrapper and PluginManager to match the rest off fl studio.
+Updated all tools in piano roll.
+Mixer handels added three version to chouse from.
+Mixer Separator fixed to match the mixer. 
+And a few other bits.
+ 
+
+momo 2017
+
+
+
